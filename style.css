@@ -1,0 +1,46 @@
+body
+{
+background:DarkOliveGreen;
+color:DarkOliveGreen;
+font-size: 25px;
+}
+#container {
+background: Wheat;
+font-family: DejaVu Sans Mono;
+font-size: 20px;
+word-spacing: 1px;
+margin: 30px auto;
+width: 900px;
+height: 1000px;
+}
+#header {
+background:Wheat;
+font-size: 85px;
+word-spacing: 1px;
+line-height: 80%;
+font-family: DejaVu Sans Mono;
+height: 200px;
+width: 900px;
+}
+#menu {
+background: Cornsilk;
+float: left;
+text-align: center;
+font-size: 30px;
+width: 200px;
+height: 600px;
+}
+#content {
+background:Tan;
+float: right;
+width: 700px;
+height: 600px;
+}
+#footer {
+background: #838283;
+font-family: DejaVu Sans Mono;
+font-size: 30px;
+word-spacing: 1px;
+height: 80px;
+width: 900px;
+}
